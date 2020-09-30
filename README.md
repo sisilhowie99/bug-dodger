@@ -1,7 +1,7 @@
 # Bug Dodger game
 ---------------
 
-### project from learning Codecademy course on Phaserjs - physics
+### project from learning from Codecademy course on Phaserjs - physics
 
 The game implements the following:
 - create sprites
